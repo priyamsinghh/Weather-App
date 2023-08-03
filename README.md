@@ -3,7 +3,8 @@
 The Weather App is a web application that provides real-time weather information for various locations. Users can search for a city and get details about the current weather conditions, including temperature, weather description, and more.
 
 ## Weather App Screenshot
-<img width="960" alt="image" src="https://github.com/priyamsinghh/Weather-App/assets/83497025/ac3907d4-c7c4-4eb0-9f38-a7ad73f99bd6">
+<img width="960" alt="image" src="https://github.com/priyamsinghh/Weather-app/assets/83497025/27ff530d-e8ca-4bb6-843e-d0cf099cf037">
+
 
 ## Features
 
